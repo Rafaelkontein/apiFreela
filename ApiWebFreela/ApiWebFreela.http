@@ -1,0 +1,6 @@
+@ApiWebFreela_HostAddress = http://localhost:5288
+
+GET {{ApiWebFreela_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
